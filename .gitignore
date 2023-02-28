@@ -1,5 +1,6 @@
-images/
+# images/
 Dekel_*
+.DS_Store
 *.pyc
 *.pdf
 *.bmp
